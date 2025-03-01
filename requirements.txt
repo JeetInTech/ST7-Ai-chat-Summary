@@ -3,3 +3,6 @@ transformers
 torch
 PyPDF2
 Flask
+transformers
+sentencepiece
+
